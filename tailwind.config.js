@@ -11,6 +11,10 @@ export default {
        OUR:"rgb(4, 48, 64)",
        image:"rgb(243, 233, 223)",
        box:"rgb(4, 48, 63)",
+       text:"rgb(102, 102, 102)",
+       box:"rgb(254, 255, 255)",
+       banner7:"rgb(248, 248, 248)",
+       banner8:"rgb(17, 21, 28)",
 
      }
     },
