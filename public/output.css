@@ -588,6 +588,10 @@ video {
   }
 }
 
+.pointer-events-none {
+  pointer-events: none;
+}
+
 .absolute {
   position: absolute;
 }
@@ -614,6 +618,14 @@ video {
 
 .top-\[100\%\] {
   top: 100%;
+}
+
+.right-4 {
+  right: 1rem;
+}
+
+.top-4 {
+  top: 1rem;
 }
 
 .z-20 {
@@ -788,6 +800,14 @@ video {
   height: 90px;
 }
 
+.h-full {
+  height: 100%;
+}
+
+.h-12 {
+  height: 3rem;
+}
+
 .w-3 {
   width: 0.75rem;
 }
@@ -838,6 +858,14 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-12 {
+  width: 3rem;
+}
+
+.max-w-4xl {
+  max-width: 56rem;
 }
 
 .rotate-\[-90deg\] {
@@ -951,6 +979,10 @@ video {
   border-radius: 0.125rem;
 }
 
+.border-0 {
+  border-width: 0px;
+}
+
 .border-text {
   --tw-border-opacity: 1;
   border-color: rgb(102 102 102 / var(--tw-border-opacity, 1));
@@ -1033,6 +1065,10 @@ video {
 
 .bg-opacity-40 {
   --tw-bg-opacity: 0.4;
+}
+
+.bg-opacity-60 {
+  --tw-bg-opacity: 0.6;
 }
 
 .bg-\[url\(\'\/images\/eko-slide1\.jpg\'\)\] {
@@ -1148,6 +1184,21 @@ video {
   padding-bottom: 8px;
 }
 
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.py-\[\] {
+  padding-top: ;
+  padding-bottom: ;
+}
+
 .pb-5 {
   padding-bottom: 1.25rem;
 }
@@ -1248,6 +1299,11 @@ video {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .font-\[200\] {
