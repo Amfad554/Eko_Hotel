@@ -15,6 +15,7 @@ export default {
        box:"rgb(254, 255, 255)",
        banner7:"rgb(248, 248, 248)",
        banner8:"rgb(17, 21, 28)",
+       banner11:"#1E2529",
 
      }
     },
