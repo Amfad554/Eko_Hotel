@@ -11,10 +11,3 @@
     }
 }
 
-
-    &&:hover{
-    .slide{
-        animation: slidedown ease-in-out 0.5s forwards;
-        visibility: visible;
-    }
-}

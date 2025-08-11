@@ -16,6 +16,7 @@ export default {
        banner7:"rgb(248, 248, 248)",
        banner8:"rgb(17, 21, 28)",
        banner11:"#1E2529",
+       address:"#CDA274",
 
      }
     },
